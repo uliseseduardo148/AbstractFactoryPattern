@@ -1,0 +1,10 @@
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.Properties.Resources.resources
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.GenerateResource.cache
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+C:\Users\cliente-preferido\source\repos\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.Form1.resources
